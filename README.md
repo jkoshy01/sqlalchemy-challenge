@@ -95,10 +95,12 @@ Plot the results as a histogram with bins=12.
 
 
 
+
+
 Step 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
 
-Use Flask to create your routes.
+Use the Flask to create your routes.
 
 
 Routes
@@ -118,7 +120,7 @@ List all routes that are available.
 /api/v1.0/precipitation
 
 
-Convert the query results to a dictionary using date as the key and prcp as the value.
+Then you will Convert the query results to a dictionary using date as the key and prcp as the value.
 
 
 Return the JSON representation of your dictionary.
