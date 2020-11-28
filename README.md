@@ -4,21 +4,23 @@ SQLAlchemy Homework - Surfs Up!
 
 Before You Start
 
+Here are some Instructions:
 
->First Create a new repository for this project called the sqlalchemy-challenge. Please Do not add this homework to an existing repository.
+First Create a new repository for this project called the sqlalchemy-challenge. Please Do not add this homework to an existing repository.
 
 
 Then You will clone the new repository to your computer.
 
 
-Add your Jupyter notebook and app.py to this folder. These will be the main scripts to run for analysis.
+Then you will add your Jupyter notebook and app.py to this folder. These will be the main scripts to run for analysis.
 
 
 Push the above changes to GitHub or GitLab.
 
 
 
-Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
+Congratulations! You've decided to treat yourself to a holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
+
 
 Step 1 - Climate Analysis and Exploration
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
