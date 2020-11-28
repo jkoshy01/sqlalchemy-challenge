@@ -102,6 +102,11 @@ Plot the results as a histogram with bins=12.
 
 
 
+
+
+
+
+
 Step 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
 
