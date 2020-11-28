@@ -39,7 +39,7 @@ Use SQLAlchemy automap_base() to reflect your tables into classes and save a ref
 
 
 
-Precipitation Analysis
+Precipitation Analysis:
 
 
 Design a query to retrieve the last 12 months of precipitation data.
