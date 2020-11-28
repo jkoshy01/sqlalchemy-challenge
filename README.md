@@ -1,6 +1,6 @@
 # SQlalchemy-challenge
 
-Summary:
+Summary: Congratulations! You've decided to treat yourself to a holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
 Use the SQLAlchemy to be able to reflect existing databases in Python
 
