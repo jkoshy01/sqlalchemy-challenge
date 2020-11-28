@@ -1,7 +1,7 @@
-# sqlalchemy-challenge
+# Sqlalchemy-challenge
 SQLAlchemy Homework - Surfs Up!
 
-Before You Begin
+Before You Start
 
 
 Create a new repository for this project called sqlalchemy-challenge. Do not add this homework to an existing repository.
