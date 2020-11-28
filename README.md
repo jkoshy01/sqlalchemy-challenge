@@ -1,13 +1,14 @@
 # Sqlalchemy-challenge
+
 SQLAlchemy Homework - Surfs Up!
 
 Before You Start
 
 
-Create a new repository for this project called sqlalchemy-challenge. Do not add this homework to an existing repository.
+>First Create a new repository for this project called the sqlalchemy-challenge. Please Do not add this homework to an existing repository.
 
 
-Clone the new repository to your computer.
+Then You will clone the new repository to your computer.
 
 
 Add your Jupyter notebook and app.py to this folder. These will be the main scripts to run for analysis.
